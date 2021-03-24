@@ -1,2 +1,2 @@
 # peixes
-identificacao de peixes amazonicos
+Classificação de peixes da Amazônia
